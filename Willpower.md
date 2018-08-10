@@ -94,108 +94,81 @@ Back to modern-day life (you can keep your opposable thumbs, of course, though y
 --- 
 
 ## THE NEUROSCIENCE OF I WILL, I WON'T, AND I WANT
-Our modern powers of self-control are the product of long-ago pressures to be better neighbors, parents, and mates. But how exactly did the human brain catch up? The answer appears to be the development of
-the prefrontal cortex, a nice chunk of neural real estate right behind your forehead and eyes. For most of evolutionary history , the prefrontal cortex mainly controlled physical movement: walking, running,
-reaching, pushing-a kind of proto-self-control. As humans evolved, the prefrontal cortex got bigger and better connected to other areas of the brain. It now takes up a larger portion of the human brain than in
-the brains of other species—one reason you'll never see your dog saving kibble for retirement. As the prefrontal cortex grew, it took on new control functions: controlling what you pay attention to, what you
-think about, even how you feel. This made it even better at controlling what you do.
-Robert Sapolsky, a neurobiologist at Stanford University, has argued that the main job of the modern prefrontal cortex is to bias the brain-and therefore, you—toward doing "the harder thing." When it's
-easier to stay on the couch, your prefrontal cortex makes you want to get up and exercise. When it's easier to say yes to dessert, your prefrontal cortex remembers the reasons for ordering tea instead. And when
-it's easier to put that project off until tomorrow, its your prefrontal cortex that helps you open the file and make progress anyway.T H E W I L L P O W E R I X S T I X C T : H O W S E L F - C O X T R O L W O R K S . W H Y I T M A T T E R S . A X D W H A T Y O U C A X D O T O G E T M O R E O F I T
-irtcnT ______ TAVT
-Willpower in the Brain
-The prefrontal cortex is not one unified blob of gray matter: it has three key regions that divvy up the jobs of I will, I won't, and I want. One region, near the upper left side of the prefrontal cortex, specializes in
-"I will" power. It helps you start and stick to boring, difficult, or stressful tasks, like staying on the treadmill when you'd rather hit the shower. The right side, in contrast, handles "I won't" power, holding you
-back from following every impulse or craving. You can thank this region for the last time you were tempted to read a text message while driving, but kept your eyes on the road instead. Together, these two
-areas control what you do.
-The third region, just a bit lower and in the middle of the prefrontal cortex, keeps track of your goals and your desires. It decides what you want. The more rapidly its cells fire, the more motivated you are to
-take action or resist temptation. This part of the prefrontal cortex remembers what you ready want, even when the rest of your brain is screaming, "Eat that! Drink that! Smoke that! Buy that!"
-UNDER THE MICROSCOPE: WHAT IS THE HARDER THING?
-Every willpower challenge requires doing something difficult, whether its walking away from temptation or not running away from a stressful situation. Imagine yourself facing your specific
-willpower challenge. What is the harder thing? What makes it so difficult? How do you feel when you think about doing it?
-A MIND-BLOWING CASE OF WILLPOWER LOST
-How important is the prefrontal cortex for self-control? One way to answer that question is to look at what happens when you lose it. The most famous case of prefrontal cortex brain damage is the story of
-Phineas Gage. And fair warning, this is a gory story. You might want to put down your sandwich.
-In 1848, Phineas Gage was a twenty-five-year-old foreman for a gang of rail workers. His employers called him their best foreman, and his team respected and liked him. His friends and family called him
-quiet and respectful. His physician, John Martyn Harlow, described him as exceptionally strong in both mind and body, "possessing an iron will and an iron frame."
-But all that changed on Wednesday, September 13, at four-thirty p.m. Gage and his men were using explosives to clear a path through Vermont for the Rutland and Burlington Railroad. Gage s job was to set
-up each explosion. This procedure had gone right a thousand times, and yet this time, something went wrong. The explosion happened too soon, and the blast sent a three-foot, seven-inch tamping iron straight
-into Gage's skull. It pierced his left cheek, blew through his prefrontal cortex, and landed thirty yards behind him, carrying some of Gage's gray matter with it.
-You might now be picturing Gage, flat on his back, instantly killed. But he didn't die. By witness reports, he didn't even pass out. Instead, his workers put him in an oxcart and pushed him almost a mile back
-to the tavern where he was staying. His physician patched him up as well as possible, replacing the largest fragments of skull recovered from the accident site, and stretching the scalp to cover the wounds.
-Gage's full physical recovery took over two months (set back perhaps as much by Dr. Harlow's enthusiasm for prescribing enemas as by the persistent fungus growing out of Gage's exposed brain). But byT H E W I L L P O W E R I N S T I N C T : H O W S E L F - C O N T R O L W O R K S . W H Y I T M A T T E R S . A N D W H A T Y O U C A N D O T O G E T M O R E O F I T
-November 17, he was sufficiently healed to return to his regular life. Gage himself reported "feeling better in every respect," with no lingering pain.
-Sounds like a happy ending. But unfortunately for Gage, the story doesn't end there. His outer wounds may have healed, but something strange was happening inside Gage's brain. According to his friends
-and coworkers, his personality had changed. Dr. Harlow described the changes in a follow-up to his original medical report of the accident:
-The balance... between his intellectual faculties and his animal propensities seems to have been destroyed. He is fitful, irreverent, indulging at times in the grossest profanity (which was not
-previously his custom), manifesting but little deference for his fellows, impatient of restraint or advice when it conflicts with his desires... devising many plans of future operation, which are no
-sooner arranged than they are abandoned.... In this regard his mind was radically changed, so decidedly that his friends and acquaintances said he was "no longer Gage."
-In other words, when Gage lost his prefrontal cortex, he lost his will power, his won't power, and his want power. His iron will—something that had seemed like an unshakable part of his character—had been
-destroyed by the tamping iron that blew through his skull.
-Most of us don't have to worry about ill-timed railroad explosions robbing us of our self-control, but we all have a little Phineas Gage in us. The prefrontal cortex is not always as reliable as we:d like. Manytemporary states—like being drunk, sleep-deprived, or even just distracted-inhibit the prefrontal cortex, mimicking the brain damage that Gage sustained. This leaves us less able to control our impulses, even
-though our gray matter is still safe in our skulls. Even when our brains are well rested and sober, we aren't fully out of danger. That's because while we all have the capacity to do the harder thing, we also
-have the desire to do exactly the opposite. This impulse needs to be restrained, and as we'll see, it often has a mind of its own.
-THE PROBLEM OF TWO MINDS
-When we watch our willpower fail-spending too much, eating too much, wasting time, and losing our tempers—well, it can make a person wonder if he has a prefrontal cortex at all. Sure, it might be possible
-to resist temptation, but that doesn't guarantee that we will. It's conceivable that we could do today what begs to be done tomorrow, but more often than not, tomorrow wins. For this frustrating fact of life, you
-can also give evolution a big thanks. As humans evolved, our brains didn't so much change as they grew. Evolution prefers to add on to what it's created, rather than start from scratch. So as humans required
-new skills, our primitive brain was not replaced with some completely- new model-the system of self-control was slapped on top of the old system of urges and instincts.
-That means that for any instinct that once served us well, evolution has kept it around-even if it now gets us into trouble. The good news is, evolution has also given us a way to handle the problems we run
-into. Take, for example, our taste buds: delight in the foods most likely to make us fat. An insatiable sweet tooth once helped humans survive when food was scarce and extra body fat was life insurance.
-Fast-forward to our modern environment of fast food, junk food, and Whole Foods, and there is more than enough to go around. Extra weight has become a health risk, not an insurance policy, and the ability to
-resist tempting foods is more important for long-term survival. But because it paid off for our ancestors, our modern brains still come equipped with a well-preserved instinct to crave fat and sweets.
-Fortunately, we can use the brain's more recently evolved self-control system to override those cravings and keep our hands out of the candy bowl. So while we're stuck with the impulse, were also equipped
-with the impulse control.
-Some neuroscientists go so far as to say that we have one brain but two minds-or even, two people living inside our mind. There:s the version of us that acts on impulse and seeks immediate gratification, and
-the version of us that controls our impulses and delays gratification to protect our long-term goals. They're both us, but we switch back and forth between these two selves. Sometimes we identify with the
-person who wants to lose weight, and sometimes we identify with the person who just wants the cookie. This is what defines a willpower challenge: Part of you wants one thing, and another part of you wants
-something else. Or your present self wants one thing, but your future self would be better off if you did something else. When these two selves disagree, one version of us has to override the other. The part of you
-that wants to give in isn't bad—it simply has a different point of view about what matters most.T H E W I L L P O W E R I N S T I N C T : H O W S E L F - C O N T R O L W O R K S . W H Y I T M A T T E R S . A N D W H A T Y O U C A N D O T O G E T M O R E O F I T
-The Problem of the Two Minds
-UNDER THE MICROSCOPE: MEET YOUR TWO MINDS
-Every willpower challenge is a conflict between two parts of oneself. For your own willpower challenge, describe these competing minds. What does the impulsive version of you want? What does the
-wiser version of you want? Some people find it useful to give a name to the impulsive mind, like "the cookie monster" to the part of you that always wants instant gratification, "the critic" to the part of
-you that likes to complain about everyone and everything, or "the procrastinator" to the person who never wants to get started. Giving a name to this version of yourself can help you recognize when it
-is taking over, and also help you call in your wiser self for some willpower support.
-THE VALUE OF BOTH SELVES
-It's tempting to think about the self-control system as being the infinitely superior "self," and our more primitive instincts as an embarrassing vestige of our evolutionary past. Sure, back when our knuckles
-dragged in the dirt, those instincts helped us survive long enough to pass on our genes. But now they just get in the way, leading to health problems, empty bank accounts, and sexual encounters we have to
-apologize for on national television. If only we civilized creatures weren't still burdened with the drives of our long-ago ancestors.
-Xot so fast. Though our survival system doesn't always work to our advantage, it is a mistake to think we should conquer the primitive self completely. Medical case studies of people who have lost these
-instincts through brain damage reveal how crucial our primitive fears and desires are for health, happiness, and even self-control. One of the strangest cases involved a young woman who had part of her
-midbrain destroyed during a brain surgery to stop seizures. She appeared to lose the ability to feel fear and disgust, which robbed her of two of the most instinctive sources of self-restraint. She developed a habit
-of stuffing herself with food until she got sick, and could frequently be found sexually propositioning family members. Xot exactly a model of self-control!
-As we'll see throughout this book, without desires we'd become depressed, and without fear we'd fail to protect ourselves from future danger. Part of succeeding at your willpower challenges will be finding a
-way to take advantage of, and not fight, such primitive instincts. Xeuroeconomists—scientists who study what the brain does when we make decisions—have discovered that the self-control system and our
-survival instincts don't always conflict. In some cases, they cooperate to help us make good decisions. For example, imagine that you're walking through a department store, and something shiny catches your
-eye. Your primitive brain shrieks, "Buy it!" Then you check out the price tag: S 199.99. Before you saw the outrageous price, you would have needed some serious prefrontal cortex intervention to shut down
-the spending impulse. But what if your brain registers an instinctive pain response to the price? Studies show that this actually happens—the brain can treat a hefty price tag like a physical punch to the gut.
-That instinctive shock is going to make the job easy for your prefrontal cortex, and you'll barely need to exert any "I won't" power. As we aim to improve our willpower, we'll look for ways to use every bit of
-what it means to be human—including our most primitive instincts, from the desire for pleasure to the need to fit in—to support our goals.THE FIRST RULE OF WILLPOWER: KNOW THYSELF
-Self-control is one of mankind's most fabulous upgrades, but it's not our only distinction. We also possess self-awareness: the ability to realize what we are doing as we do it, and understand why we are doing it.
-With any luck, we can also predict what we're likely to do before we do it, giving us ample opportunity to reconsider. This level of self-awareness appears to be uniquely human. Sure, dolphins and elephants
-can recognize themselves in a mirror, but there's little evidence that they search their souls for self-understanding.
-Without self-awareness, the self-control system would be useless. You need to recognize when you're making a choice that requires willpower; otherwise, the brain always defaults to what is easiest. Consider a
-smoker who wants to quit. She needs to recognize the first sign of a craving, and where it's likely to lead her (outside, in the cold, fumbling with a lighter). She also needs to realize that if she gives in to the
-craving this time, she's more likely to smoke again tomorrow. One more look in the crystal ball, and she'll see that if she continues on this path, she'll end up with all those horrible diseases she learned about in
-health class. To avoid this fate, she needs to make a conscious choice not to smoke the cigarette. Without self-awareness, she's doomed.
-This may sound simple, but psychologists know that most of our choices are made on autopilot, without any real awareness of what's driving them, and certainly without serious reflection on their
-consequences. Heck, most of the time, we don't even realize were making a choice. For example, one study asked people how many food-related decisions they made in one day. What would you say? On
-average, people guessed fourteen. In reality, when these same folks carefully tracked their decisions, the average was 227. That's more than two hundred choices people were initially unaware of-and those are
-just the decisions related to eating. How can you control yourself if you aren't even aware that there is something to control?
-Modern society, with its constant distractions and stimulation, doesn't help. Baba Shiv, a professor of marketing at the Stanford Graduate School of Business, has shown that people who are distracted are
-more likely to give in to temptations. For example, students trying to remember a telephone number are 50 percent more likely to choose chocolate cake over fruit at a snack cart. Distracted shoppers are more
-susceptible to in-store promotions, and more likely to go home with items not on their shopping lists.*
-When your mind is preoccupied, your impulses—not your long-term goals—will guide your choices. Texting as you stand in line waiting to order at the coffee shop? You might just find yourself asking for a
-mocha milk shake instead of an iced coffee. (Incoming text msg: Bet u don't want 2 know how many calories r in that drink.) Can't get your mind off work? You might just find yourself agreeing with the
-salesperson that you need the upgrade and unlimited-service package.
-WILLPOWER EXPERIMENT:TRACK YOUR WILLPOWER CHOICES
-To have more self-control, you first need to develop more self-awareness. A good first step is to notice when you are making choices related to your willpower challenge. Some will be more obvious, such
-as, "Do I go to the gym after work?" The impact of other decisions might not be clear until later in the day, when you see their full consequences. For example, did you choose to pack your gym bag so
-you wouldn't have to go home first? (Smart! You'll be less likely to make excuses.) Did you get caught up in a phone call until you were too hungry to go straight to the gym? (Oops! You'll be less likely
-to exercise if you have to stop for dinner first.) For at least one day , track your choices. At the end of the day, look back and try to analyze when decisions were made that either supported or
-undermined your goals. Trying to keep track of your choices will also reduce the number of decisions you make while distracted-a guaranteed way to boost your willpower.
-AN E-MAIL ADDICT TAKES THE FIRST STEP TO RECOVERY
+Our modern powers of self-control are the product of long-ago pressures to be better neighbors, parents, and mates. But how exactly did the human brain catch up? The answer appears to be the development of the prefrontal cortex(前额皮质), a nice chunk of neural real estate right behind your forehead and eyes. For most of evolutionary history , the prefrontal cortex mainly controlled physical movement: walking, running, reaching, pushing - a kind of proto-self-control. As humans evolved, the prefrontal cortex got bigger and better connected to other areas of the brain. It now takes up a larger portion of the human brain than in the brains of other species - one reason you'll never see your dog saving kibble(狗粮) for retirement. As the prefrontal cortex grew, it took on new control functions: controlling what you pay attention to, what you think about, even how you feel. This made it even better at controlling what you do.  
+
+Robert Sapolsky, a neurobiologist at Stanford University, has argued that the main job of the modern prefrontal cortex is to bias the brain and therefore, you toward doing "the harder thing." When it's easier to stay on the couch(睡椅), your prefrontal cortex makes you want to get up and exercise. When it's easier to say yes to dessert, your prefrontal cortex remembers the reasons for ordering tea instead. And when it's easier to put that project off until tomorrow, its your prefrontal cortex that helps you open the file and make progress anyway.  
+
+The prefrontal cortex is not one unified blob of gray matter: it has three key regions that divvy up(分摊) the jobs of I will, I won't, and I want. One region, near the upper left side of the prefrontal cortex, specializes in "I will" power. It helps you start and stick to boring, difficult, or stressful tasks, like staying on the treadmill(跑步机) when you'd rather hit the shower. The right side, in contrast, handles "I won't" power，holding you back from following every impulse or craving. You can thank this region for the last time you were tempted to read a text message while driving, but kept your eyes on the road instead. Together, these two areas control what you do.  
+
+The third region, just a bit lower and in the middle of the prefrontal cortex, keeps track of your goals and your desires. It decides what you want. The more rapidly its cells fire, the more motivated you are to take action or resist temptation. This part of the prefrontal cortex remembers what you really want, even when the rest of your brain is screaming, "Eat that! Drink that! Smoke that! Buy that!"  
+
+#### UNDER THE MICROSCOPE: WHAT IS THE HARDER THING?
+Every willpower challenge requires doing something difficult, whether its walking away from temptation or not running away from a stressful situation. Imagine yourself facing your specific willpower challenge. What is the harder thing? What makes it so difficult? How do you feel when you think about doing it?  
+
+---
+
+### A MIND-BLOWING CASE OF WILLPOWER LOST
+How important is the prefrontal cortex for self-control? One way to answer that question is to look at what happens when you lose it. The most famous case of prefrontal cortex brain damage is the story of Phineas Gage. And fair warning, this is a gory story. You might want to put down your sandwich.  
+
+In 1848, Phineas Gage was a twenty-five-year-old foreman for a gang of rail workers. His employers called him their best foreman, and his team respected and liked him. His friends and family called him quiet and respectful. His physician, John Martyn Harlow, described him as exceptionally strong in both mind and body, "possessing an iron will and an iron frame."  
+
+But all that changed on Wednesday, September 13, at four-thirty p.m. Gage and his men were using explosives to clear a path through Vermont for the Rutland and Burlington Railroad. Gage s job was to set up each explosion. This procedure had gone right a thousand times, and yet this time, something went wrong. The explosion happened too soon, and the blast sent a three-foot, seven-inch tamping iron straight into Gage's skull. It pierced his left cheek, blew through his prefrontal cortex, and landed thirty yards behind him, carrying some of Gage's gray matter with it.  
+
+You might now be picturing Gage, flat on his back, instantly killed. But he didn't die. By witness reports, he didn't even pass out. Instead, his workers put him in an oxcart and pushed him almost a mile back to the tavern where he was staying. His physician patched him up as well as possible, replacing the largest fragments of skull recovered from the accident site, and stretching the scalp to cover the wounds.  
+
+Gage's full physical recovery took over two months (set back perhaps as much by Dr. Harlow's enthusiasm for prescribing enemas as by the persistent fungus growing out of Gage's exposed brain). But by November 17, he was sufficiently healed to return to his regular life. Gage himself reported "feeling better in every respect," with no lingering pain.  
+
+Sounds like a happy ending. But unfortunately for Gage, the story doesn't end there. His outer wounds may have healed, but something strange was happening inside Gage's brain. According to his friends and coworkers, his personality had changed. Dr. Harlow described the changes in a follow-up to his original medical report of the accident:  
+
+The balance... between his intellectual faculties and his animal propensities seems to have been destroyed. He is fitful, irreverent, indulging at times in the grossest profanity (which was not previously his custom), manifesting but little deference for his fellows, impatient of restraint or advice when it conflicts with his desires... devising many plans of future operation, which are no sooner arranged than they are abandoned.... In this regard his mind was radically changed, so decidedly that his friends and acquaintances said he was "no longer Gage."  
+
+In other words, when Gage lost his prefrontal cortex, he lost his will power, his won't power, and his want power. His iron will—something that had seemed like an unshakable part of his character—had been destroyed by the tamping iron that blew through his skull.  
+
+Most of us don't have to worry about ill-timed railroad explosions robbing us of our self-control, but we all have a little Phineas Gage in us. The prefrontal cortex is not always as reliable as we'd like. Many temporary states—like being drunk, sleep-deprived, or even just distracted-inhibit the prefrontal cortex, mimicking the brain damage that Gage sustained. This leaves us less able to control our impulses, even though our gray matter is still safe in our skulls. Even when our brains are well rested and sober(冷静的), we aren't fully out of danger. That's because while we all have the capacity to do the harder thing, we also have the desire to do exactly the opposite. This impulse needs to be restrained, and as we'll see, it often has a mind of its own.  
+
+---
+
+## THE PROBLEM OF TWO MINDS
+When we watch our willpower fail-spending too much, eating too much, wasting time, and losing our tempers—well, it can make a person wonder if he has a prefrontal cortex at all. Sure, it might be possible to resist temptation, but that doesn't guarantee that we will. It's conceivable(可能的) that we could do today what begs to be done tomorrow, but more often than not, tomorrow wins. For this frustrating fact of life, you can also give evolution a big thanks. As humans evolved, our brains didn't so much change as they grew. Evolution prefers to add on to what it's created, rather than start from scratch. So as humans required new skills, our primitive brain was not replaced with some completely new model - the system of self-control was slapped on top of the old system of urges and instincts.  
+
+That means that for any instinct that once served us well, evolution has kept it around - even if it now gets us into trouble. The good news is, evolution has also given us a way to handle the problems we run into. Take, for example, our taste buds: delight in the foods most likely to make us fat. An insatiable(贪得无厌的) sweet tooth once helped humans survive when food was scarce(缺乏的) and extra body fat was life insurance. Fast-forward to our modern environment of fast food, junk food, and Whole Foods, and there is more than enough to go around. Extra weight has become a health risk, not an insurance policy, and the ability to resist tempting foods is more important for long-term survival. But because it paid off for our ancestors, our modern brains still come equipped with a well-preserved instinct to crave fat and sweets. Fortunately, we can use the brain's more recently evolved self-control system to override those cravings and keep our hands out of the candy bowl. So while we're stuck with the impulse, were also equipped with the impulse control.  
+
+Some neuroscientists go so far as to say that we have one brain but two minds-or even, two people living inside our mind. There's the version of us that acts on impulse and seeks immediate gratification(喜悦), and the version of us that controls our impulses and delays gratification to protect our long-term goals. They're both us, but we switch back and forth between these two selves. Sometimes we identify with the person who wants to lose weight, and sometimes we identify with the person who just wants the cookie. This is what defines a willpower challenge: Part of you wants one thing, and another part of you wants something else. Or your present self wants one thing, but your future self would be better off if you did something else. When these two selves disagree, one version of us has to override the other. The part of you that wants to give in isn't bad—it simply has a different point of view about what matters most.  
+
+---
+
+#### UNDER THE MICROSCOPE: MEET YOUR TWO MINDS
+Every willpower challenge is a conflict between two parts of oneself. For your own willpower challenge, describe these competing minds. What does the impulsive version of you want? What does the wiser version of you want? Some people find it useful to give a name to the impulsive mind, like "the cookie monster" to the part of you that always wants instant gratification, "the critic" to the part of you that likes to complain about everyone and everything, or "the procrastinator" to the person who never wants to get started. Giving a name to this version of yourself can help you recognize when it is taking over, and also help you call in your wiser self for some willpower support.  
+
+---
+
+### THE VALUE OF BOTH SELVES
+It's tempting to think about the self-control system as being the infinitely superior "self," and our more primitive instincts as an embarrassing vestige of our evolutionary past. Sure, back when our knuckles dragged in the dirt(在我们茹毛饮血的年代), those instincts helped us survive long enough to pass on our genes. But now they just get in the way, leading to health problems, empty bank accounts, and sexual encounters we have to
+apologize for on national television. If only we civilized creatures weren't still burdened with the drives of our long-ago ancestors.  
+
+Not so fast. Though our survival system doesn't always work to our advantage, it is a mistake to think we should conquer the primitive self completely. Medical case studies of people who have lost these instincts through brain damage reveal how crucial our primitive fears and desires are for health, happiness, and even self-control. One of the strangest cases involved a young woman who had part of her midbrain destroyed during a brain surgery to stop seizures. She appeared to lose the ability to feel fear and disgust, which robbed her of two of the most instinctive sources of self-restraint. She developed a habit of stuffing herself with food until she got sick, and could frequently be found sexually propositioning family members. Not exactly a model of self-control!  
+
+As we'll see throughout this book, without desires we'd become depressed, and without fear we'd fail to protect ourselves from future danger. Part of succeeding at your willpower challenges will be finding a way to take advantage of, and not fight, such primitive instincts. Neuroeconomists—scientists who study what the brain does when we make decisions—have discovered that the self-control system and our survival instincts don't always conflict. In some cases, they cooperate to help us make good decisions. For example, imagine that you're walking through a department store, and something shiny catches your eye. Your primitive brain shrieks, "Buy it!" Then you check out the price tag: S 199.99. Before you saw the outrageous price, you would have needed some serious prefrontal cortex intervention to shut down the spending impulse. But what if your brain registers an instinctive pain response to the price? Studies show that this actually happens—the brain can treat a hefty price tag like a physical punch to the gut. That instinctive shock is going to make the job easy for your prefrontal cortex, and you'll barely need to exert any "I won't" power. As we aim to improve our willpower, we'll look for ways to use every bit of what it means to be human—including our most primitive instincts, from the desire for pleasure to the need to fit in—to support our goals.  
+
+---
+
+### THE FIRST RULE OF WILLPOWER: KNOW THYSELF
+Self-control is one of mankind's most fabulous upgrades, but it's not our only distinction. We also possess self-awareness: the ability to realize what we are doing as we do it, and understand why we are doing it. With any luck, we can also predict what we're likely to do before we do it, giving us ample opportunity to reconsider. This level of self-awareness appears to be uniquely human. Sure, dolphins and elephants can recognize themselves in a mirror, but there's little evidence that they search their souls for self-understanding.  
+
+Without self-awareness, the self-control system would be useless. You need to recognize when you're making a choice that requires willpower; otherwise, the brain always defaults to what is easiest. Consider a smoker who wants to quit. She needs to recognize the first sign of a craving, and where it's likely to lead her (outside, in the cold, fumbling with a lighter). She also needs to realize that if she gives in to the craving this time, she's more likely to smoke again tomorrow. One more look in the crystal ball, and she'll see that if she continues on this path, she'll end up with all those horrible diseases she learned about in health class. To avoid this fate, she needs to make a conscious choice not to smoke the cigarette. Without self-awareness, she's doomed.  
+
+This may sound simple, but psychologists know that most of our choices are made on autopilot, without any real awareness of what's driving them, and certainly without serious reflection on their consequences. Heck, most of the time, we don't even realize were making a choice. For example, one study asked people how many food-related decisions they made in one day. What would you say? On average, people guessed fourteen. In reality, when these same folks carefully tracked their decisions, the average was 227. That's more than two hundred choices people were initially unaware of-and those are just the decisions related to eating. How can you control yourself if you aren't even aware that there is something to control?  
+
+Modern society, with its constant distractions and stimulation, doesn't help. Baba Shiv, a professor of marketing at the Stanford Graduate School of Business, has shown that people who are distracted are more likely to give in to temptations. For example, students trying to remember a telephone number are 50 percent more likely to choose chocolate cake over fruit at a snack cart. Distracted shoppers are more susceptible to in-store promotions, and more likely to go home with items not on their shopping lists.  
+
+When your mind is preoccupied, your impulses—not your long-term goals—will guide your choices. Texting as you stand in line waiting to order at the coffee shop? You might just find yourself asking for a mocha milk shake instead of an iced coffee. (Incoming text msg: Bet u don't want 2 know how many calories r in that drink.) Can't get your mind off work? You might just find yourself agreeing with the salesperson that you need the upgrade and unlimited-service package.
+
+#### WILLPOWER EXPERIMENT:TRACK YOUR WILLPOWER CHOICES
+**To have more self-control, you first need to develop more self-awareness.** A good first step is to notice when you are making choices related to your willpower challenge. Some will be more obvious, such as, "Do I go to the gym after work?" The impact of other decisions might not be clear until later in the day, when you see their full consequences. For example, did you choose to pack your gym bag so you wouldn't have to go home first? (Smart! You'll be less likely to make excuses.) Did you get caught up in a phone call until you were too hungry to go straight to the gym? (Oops! You'll be less likely to exercise if you have to stop for dinner first.) For at least one day , track your choices. At the end of the day, look back and try to analyze when decisions were made that either supported or undermined your goals. Trying to keep track of your choices will also reduce the number of decisions you make while distracted-a guaranteed way to boost your willpower.  
+
+---
+
+### AN E-MAIL ADDICT TAKES THE FIRST STEP TO RECOVERY
 Michele, a thirty-one-year-old radio show producer, was constantly checking e-mail on her computer or her phone. It was disrupting her productivity at work and annoying her boyfriend, who could never
 manage to get Michele's full attention. Her willpower challenge for the class was to check e-mail less, and she set an ambitious goal of checking no more than once an hour. After the first week, she reported that
 she did not come even close to her goal. The problem was that she often didn't even realize that she was checking her e-mail until after she was scrolling through new messages. She could stop once she realized
